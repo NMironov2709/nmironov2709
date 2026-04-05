@@ -37,8 +37,8 @@
 ---
 
 ## 📂 Мои проекты
-- Тестовая документация (https://github.com/NMironov2709/test-documentation)
-
+- **Тестовая документация** [test-documentation](https://github.com/NMironov2709/test-documentation)
+- **Баг-репорты** [bug-reports](https://github.com/NMironov2709/bug-reports)
 ---
 
 ## 📈 Сейчас изучаю
